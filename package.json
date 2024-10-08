@@ -1,0 +1,15 @@
+{
+  "name": "next-env-replace",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./bin/next-env-replace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hisco/next-env-replace.git"
+  },
+  "author": "hisco",
+  "license": "MIT"
+}
